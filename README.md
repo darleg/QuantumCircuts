@@ -1,2 +1,3 @@
-# QuantumCircuts
- Notes on Quantum Computing
+# Quantum Circuts
+ 
+![alt text](image.png)

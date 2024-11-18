@@ -7,6 +7,8 @@ quantum mechanics.  Here are the essentials:
 
 A. Mathmatics
 
+  1. Geometry
+  2. Trigonometry
   1. Vectors
   2. Linear Algerbra
   3. Complex Numbers

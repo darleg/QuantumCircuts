@@ -29,12 +29,8 @@ If you are lucky, you would have pick up most of it in little
 byte size bits. This is in my case. Advance mathematics in
 high school and higher mathematics in university classes. Self
 learning electronics starting in 7th grade. Technical classes in
-Physics and Electronics as an Inertial Radar and Navigational
-Computer Specialist and as a Nuclear Instrumentation Specialist.
-Before I retired, worked as a Computer Specialist for 15 years.
-Specialized in three different areas, Data Communications,
+Physics and Electronics as an Inertial, Doppler Radar, and
+Navigational Computer Specialist also, as a Nuclear Instrumentation
+Specialist. Before I retired, worked as a Computer Specialist for
+15 years. Specialized in three different areas, Data Communications,
 Software Analyst, and Systems Analyst.
-
- 
- 
- 

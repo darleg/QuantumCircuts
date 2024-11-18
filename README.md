@@ -9,10 +9,10 @@ A. Mathmatics
 
   1. Geometry
   2. Trigonometry
-  1. Vectors
-  2. Linear Algerbra
-  3. Complex Numbers
-  4. Probability Theory
+  3. Vectors
+  4. Linear Algerbra
+  5. Complex Numbers
+  6. Probability Theory
 
 B. Quantum Mechanics
 

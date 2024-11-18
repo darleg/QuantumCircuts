@@ -22,4 +22,10 @@ B. Quantum Mechanics
  4. Quantum Gates
  5. Measurement
  6. Quantum Algorithms
+
+
+ So, i would not want to have to learn all of this at once.
+ If you are lucky, you would have pick up most of it in little
+ byte size bits. This is in my case. Advance mathmatics in high
+ 
  

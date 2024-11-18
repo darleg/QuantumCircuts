@@ -14,10 +14,10 @@ A. Mathmatics
 
 B. Quantum Mechanics
 
- 4. Qubits
- 5. Entanglement
- 6. Superposition
- 7. Quantum Gates
- 8. Measurement
- 9. Quantum Algorithms
+ 1. Qubits
+ 2. Entanglement
+ 3. Superposition
+ 4. Quantum Gates
+ 5. Measurement
+ 6. Quantum Algorithms
  

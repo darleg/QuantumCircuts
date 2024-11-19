@@ -38,3 +38,10 @@ as an Engineering Technologist for 4 years. Before I retired,
 worked as a Computer Specialist for 12 years. Specialized in 
 three different areas, Data Communications, Software Analyst,
 and Systems Analyst.
+
+There is nothing to worry about here. I am no genius so this
+is going to be simple. There will be some mathematics equations.
+Some things are just easier with equations, like simulation and
+Physics. I probably will not even get into Quantum Physics much.
+I just want to show that a Quantum Computer is a computer. So,
+There should be a way to program it.

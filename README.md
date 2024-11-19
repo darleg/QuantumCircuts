@@ -26,11 +26,15 @@ B. Quantum Mechanics
 
 So, I would not want to have to learn all of this at once.
 If you are lucky, you would have pick up most of it in little
-byte size bits. This is in my case. Advance mathematics in
-high school and higher mathematics in university classes. Self
-learning electronics starting in 7th grade. Technical classes in
-Physics and Electronics as an Inertial, Doppler Radar, and
-Navigational Computer Specialist also, as a Nuclear Instrumentation
-Specialist. Before I retired, worked as a Computer Specialist for
-15 years. Specialized in three different areas, Data Communications,
-Software Analyst, and Systems Analyst.
+byte size bits. This is in my case. Self-learning electronics
+starting in 7th grade. Advance mathematics in high school and
+higher mathematics and Computer Science in university classes.
+Technical schools in Physics and Electronics as an Inertial,
+Doppler Radar, and Navigational Computer Specialist for 5 years
+also, as a Nuclear Instrumentation Specialist for 3 years.
+One more thing; Periodic testing of underwater ordinance and
+designing and building interfaces for Automatic Test Equipment
+as an Engineering Technologist for 4 years. Before I retired,
+worked as a Computer Specialist for 12 years. Specialized in 
+three different areas, Data Communications, Software Analyst,
+and Systems Analyst.

@@ -1,6 +1,6 @@
 How to Program Quantum Circuits
 
-Programming quantum circuits involves using quantum programming languages and frameworks to create and manipulate quantum gates and qubits. Here are some steps to get you started:
+Programming quantum circuits involves using quantum programming languages and frameworks to create and manipulate quantum gates and qubits. Here are some steps to get you started: 
 A. Choose a Quantum Programming Framework
    1. Qiskit: Developed by IBM, Qiskit is a popular open-source quantum computing framework 
       based on Python. It allows you to create and run quantum circuits on IBM's quantum 

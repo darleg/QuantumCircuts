@@ -1,14 +1,15 @@
 How to Program Quantum Circuits
+
 Programming quantum circuits involves using quantum programming languages and frameworks to create and manipulate quantum gates and qubits. Here are some steps to get you started:
-1. Choose a Quantum Programming Framework
-   • Qiskit: Developed by IBM, Qiskit is a popular open-source quantum computing framework 
-     based on Python. It allows you to create and run quantum circuits on IBM's quantum 
-     computers.
-   • Cirq: Developed by Google, Cirq is another open-source framework for
+A. Choose a Quantum Programming Framework
+   1. Qiskit: Developed by IBM, Qiskit is a popular open-source quantum computing framework 
+      based on Python. It allows you to create and run quantum circuits on IBM's quantum 
+      computers.
+   2. Cirq: Developed by Google, Cirq is another open-source framework for
    creating,simulating, and running quantum circuits, particularly for
    NISQ (Noisy Intermediate-Scale Quantum) devices.
-   • Forest: Developed by Rigetti, Forest includes tools like Quil (Quantum Instruction Language) and pyQuiH for programming quantum computers.
-3.
+   3. Forest: Developed by Rigetti, Forest includes tools like Quil (Quantum Instruction Language) and pyQuiH for programming quantum computers.
+B.
 Install the Framework
 •
 For example, to install Qiskit, you can use pip:

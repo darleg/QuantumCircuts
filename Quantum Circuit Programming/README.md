@@ -24,7 +24,6 @@ C. Create a Quantum Circuit
 
 D. Run the Circuit on a Quantum Computer or Simulator
    1. You can run your quantum circuit on a real quantum computer, or a simulator provided by the framework. For example, Qiskit allows you to run circuits on IBM's quantum hardware or simulators.
-7.
-Analyze the Results
-•
-After running the circuit, you can analyze the results to understand the behavior of your quantum circuit. The results will typically include measurement outcomes and probabilities.
+
+E. Analyze the Results
+   1. After running the circuit, you can analyze the results to understand the behavior of your quantum circuit. The results will typically include measurement outcomes and probabilities.

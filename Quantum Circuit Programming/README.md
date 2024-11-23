@@ -14,12 +14,14 @@ A. Choose a Quantum Programming Framework
 B. Install the Framework
    1. For example, to install Qiskit, you can use pip:
       pip install qiskit
+
 C. Create a Quantum Circuit
    1. Qiskit (IBM)
    2. Cirq (Google)
    3. Q# (Microsoft)
    4. Qiul (Rigetti Computing)
    5. OpenQASM (IBM)
+
 D. Run the Circuit on a Quantum Computer or Simulator
    1. You can run your quantum circuit on a real quantum computer, or a simulator provided by the framework. For example, Qiskit allows you to run circuits on IBM's quantum hardware or simulators.
 7.

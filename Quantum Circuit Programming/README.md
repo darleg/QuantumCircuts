@@ -10,10 +10,9 @@ A. Choose a Quantum Programming Framework
    creating,simulating, and running quantum circuits, particularly for
    NISQ (Noisy Intermediate-Scale Quantum) devices.
    3. Forest: Developed by Rigetti, Forest includes tools like Quil (Quantum Instruction Language) and pyQuiH for programming quantum computers.
-B.
-Install the Framework
-•
-For example, to install Qiskit, you can use pip:
+
+B. Install the Framework
+   1. For example, to install Qiskit, you can use pip:
 pip install qiskit
 4.
 Create a Quantum Circuit

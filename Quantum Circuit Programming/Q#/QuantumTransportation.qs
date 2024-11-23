@@ -1,6 +1,6 @@
 
 @EntryPoint()
-operation QuantumTransportation() : (Result, Result) {  
+operation QuantumTransportation() : (Result, Result, Result) {  
     // Two qubits, q0 and q1, in the 0 state.
     use (q0, q1, q2) = (Qubit(), Qubit(), Qubit());
     // Transportation
@@ -15,5 +15,5 @@ operation QuantumTransportation() : (Result, Result) {
     Reset(q1);
     Reset(q2);
     // Return the measurement results.
-    return (m0, m2);
+    return (m0, m1, m2);
 }
